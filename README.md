@@ -41,4 +41,5 @@ Note:
 The game cycle continues until you win or exit by pressing 'q'.
 The script uses the console for input and output, and the results may differ depending on the environment.
 
-Feel free to change and expand the README as needed to include any new instructions, hints, or game information.
+Feel free to change and expand the README as needed to include any new instructions, hints, or game information.🐸🐸🐸🔥🔥
+
